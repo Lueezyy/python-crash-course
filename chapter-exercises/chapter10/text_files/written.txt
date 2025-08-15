@@ -1,0 +1,3 @@
+I like programming.
+I can't wait to learn data analysis.
+Then, I'll be able to learn machine learning.
